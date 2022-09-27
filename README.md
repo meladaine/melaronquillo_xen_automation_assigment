@@ -1,2 +1,0 @@
-# melaronquillo_xen_automation_training_1st_assigment
-repo for cypress training assignment
